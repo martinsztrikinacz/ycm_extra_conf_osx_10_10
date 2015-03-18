@@ -1,0 +1,1 @@
+Working .ycm_extra_conf.py for C/C++ semantic support on Yosemite (10.10)
